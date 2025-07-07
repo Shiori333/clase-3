@@ -1,1 +1,1 @@
-# clase-2-diselo
+# clase-2-diseño
